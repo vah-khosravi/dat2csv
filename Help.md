@@ -1,5 +1,5 @@
 # dat2csv
-This repository will help to convert .dat files recorded by ASD FieldSpec spectroradiometers to .csv format
+This repository will help to convert .dat files recorded by ASD FieldSpec spectroradiometers to .csv
 To do so:
 Open command prompt or terminal
 All codes and spectra should be in the "ASDtoCSV" directory.
