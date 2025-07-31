@@ -1,6 +1,7 @@
 # dat2csv
-This repository will help convert .dat files recorded by ASD FieldSpec spectroradiometers to .csv
+This repository will help to convert .dat files recorded by ASD FieldSpec spectroradiometers to .csv format
 To do so:
+Open command prompt or terminal
 All codes and spectra should be in the "ASDtoCSV" directory.
 [Path to your directory which contains the code and .dat files]>python asd2csv.py Spectrum00001.asd Spectrum00001.csv	    # Convert single spectra to .csv format
 [Path to your directory which contains the code and .dat files]>python batch_convert.py                                     # Convert all spectra to .csv format
